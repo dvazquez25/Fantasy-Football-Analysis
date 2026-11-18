@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Homework solutions (sent to the professor separately)
+homework/homework_solutions.ipynb
